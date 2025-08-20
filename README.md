@@ -1,7 +1,9 @@
+<div align="center" style="background: linear-gradient(90deg, #fdfbfb 0%, #ebedee 100%); padding: 30px; border-radius: 12px;">
 <h1 align="center">Hi there 👋, I'm Ekansh Verma</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF0000&center=true&vCenter=true&width=500&lines=Full-stack+%26+AI+Enthusiast;Aspiring+Cybersecurity+Specialist;AI%2FML+%26+RAG+Explorer;">
 </h3>
+</div>
 
 ---
 
