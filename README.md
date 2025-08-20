@@ -20,9 +20,9 @@
 
 ## 🧰 Skills & Tools  
 
-`Python` · `FastAPI` · `SQLAlchemy` · `MySQL` · `TailwindCSS` · `HTML/CSS/JS`  
+`Python` · `FastAPI` · `Microservices` · `Sentence-transformers` · `SQLAlchemy` · `MySQL` · `TailwindCSS` · `HTML/CSS/JS`  
 `Ray` · `Dask` · `Milvus` · `HuggingFace` · `Ollama (Mistral-7B)`  
-`PHP` · `Postman` · `Java` · `VectorDB` · `C++` · `C` · `React.js` · `BootstrapCSS` · `JWT`  
+`PHP` · `Postman` · `Java` · `VectorDB` · `C++` · `C` · `React.js` · `BootstrapCSS` · `JWT` 
 
 ---
 
