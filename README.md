@@ -18,7 +18,7 @@
 
 ## 🧰 Tech Stack & Skills  
 
-<h3 align='center'>### 🖥️ Programming Languages</h3>  
+<h3 align='center'>🖥️ Programming Languages</h3>  
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🌐 Frontend Development  
+<h3 align='center'>🌐 Frontend Development</h3>  
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -38,21 +38,21 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Backend Development  
+<h3 align='center'>⚙️ Backend Development</h3>  
 <p align="center">
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-### 🗄️ Databases  
+<h3 align='center'>🗄️ Databases</h3>  
 <p align="center">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Milvus-0081CB?style=for-the-badge&logo=milvus&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & AI Tools  
+<h3 align='center'>☁️ Cloud & AI Tools</h3>  
 <p align="center">
   <img src="https://img.shields.io/badge/-Ray-0288D1?style=for-the-badge&logo=ray&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/-Dask-FF6F00?style=for-the-badge&logo=dask&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Others  
+<h3 align='center'>🛠️ Tools & Others</h3>  
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
