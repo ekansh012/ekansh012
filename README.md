@@ -71,13 +71,13 @@
 
 ## 📂 Featured Projects  
 
-| Project                       | Category                | Tech Stack                               | Repository |
-| ----------------------------- | ----------------------- | ---------------------------------------- | ---------- |
-| **Bookstore Management API**  | Backend (CRUD)          | PHP · MySQL · Postman                    | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/CRUD_API_Bookstore_management_project) |
-| **Invoice Generator Dashboard** | Full Stack              | FastAPI · MySQL · Tailwind · Jinja2 · JWT | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/JWT_Authentication_Py) |
-| **Semantic Search (RAG UI)**  | AI / RAG                | FastAPI · Milvus · HuggingFace · Tailwind | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/<semantic-search-repo>) |
-| **Ray-Powered RAG Pipeline**  | AI / Parallel Computing | Python · Ray · Milvus · Ollama (Mistral-7B) | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/modular-ray-rag-pipeline) |
-| **WhatsApp Bulk Messenger (GUI)** | Automation           | Python · Tkinter                          | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/whatsapp-bulk-messenger) |
+| Project                           | Category                | Tech Stack                                   | Description                                                                                   | Repository |
+| --------------------------------- | ----------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------- |
+| **InvoXpress (Invoice Generator Dashboard)** | Full Stack              | FastAPI · MySQL · Tailwind · Jinja2 · JWT    | A complete invoice management system with JWT authentication, invoice creation, and PDF export. | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/JWT_Authentication_Py) |
+| **Semantic Search (RAG UI)**      | AI / RAG                | FastAPI · Milvus · HuggingFace · Tailwind    | A semantic search UI integrated with a RAG pipeline to retrieve and query knowledge efficiently. | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/<semantic-search-repo>) |
+| **Ray-Powered RAG Pipeline**      | AI / Parallel Computing | Python · Ray · Milvus · Ollama (Mistral-7B)  | End-to-end RAG pipeline with PDF/TXT support, embeddings, Milvus storage, and Ollama inference. | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/modular-ray-rag-pipeline) |
+| **Bookstore Management API**      | Backend (CRUD)          | PHP · MySQL · Postman                        | A backend API for managing bookstore operations with CRUD endpoints and database integration.   | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/CRUD_API_Bookstore_management_project) |
+| **WhatsApp Bulk Messenger (GUI)** | Automation              | Python · Tkinter                             | A desktop automation tool to send bulk WhatsApp messages using a simple GUI interface.          | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ekansh012/whatsapp-bulk-messenger) |
 
 ---
 
