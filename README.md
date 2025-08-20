@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ekansh Verma</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=BCA+Graduate;Aspiring+Cybersecurity+Specialist;Full-stack+%26+AI+Enthusiast;AI%2FML+%26+RAG+Explorer;Parallel+Computing+with+Ray">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=BCA+Graduate;Full-stack+%26+AI+Enthusiast;;Aspiring+Cybersecurity+SpecialistAI%2FML+%26+RAG+Explorer;Parallel+Computing+with+Ray">
 </h3>
 
 ---
