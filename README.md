@@ -36,8 +36,8 @@
 
 ## 🤝 Connect
 
-* Email: **[ek.verma2004@gmail.com]**
-* LinkedIn: **[https://www.linkedin.com/in/your‑handle](https://www.linkedin.com/in/your‑handle)**
+* Email: **ek.verma2004@gmail.com**
+* LinkedIn: **www.linkedin.com/in/ekansh-verma-02313625a**
 
 ---
 
