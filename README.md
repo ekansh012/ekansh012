@@ -12,7 +12,7 @@
 - 💻 Building projects in **AI, RAG, and Full-stack Development**  
 - 🤝 Open to **collaborating on Open Source & Research Projects**  
 - 📫 Reach me at: **ek.verma2004@gmail.com**  
-- ⚡ Fun fact: *I debug with `print()` and I’m proud of it 😄*  
+- 🔍 Fun Fact: I can spend hours debugging... only to realize it was a missing semicolon.
 
 ---
 
