@@ -56,6 +56,7 @@
 <h3 align='center'>🗄️ Databases</h3>  
 <p align="center">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Milvus-0081CB?style=for-the-badge&logo=milvus&logoColor=white"/>
 </p>
 
