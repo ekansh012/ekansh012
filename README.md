@@ -16,13 +16,13 @@
 | Ray‑Powered RAG Pipeline      | AI / Parallel Computing | Python, Ray, Milvus, Ollama (Mistral‑7B) | [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ekansh012/modular-ray-rag-pipeline)            |
 | WhatsApp Bulk Messenger (GUI) | Automation              | Python, Tkinter                          | [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ekansh012/whatsapp-bulk-messenger) |
 
-> Replace each `<...>` with your actual repo slug.
+
 
 ---
 
 ## 🧰 Skills & Tools
 
-`Python` · `FastAPI` · `SQLAlchemy` · `MySQL` · `TailwindCSS` · `HTML/CSS/JS` · `Ray` · `Milvus` · `HuggingFace` · `Ollama (Mistral‑7B)` · `PHP` · `Postman`
+`Python` · `FastAPI` · `SQLAlchemy` · `MySQL` · `TailwindCSS` · `HTML/CSS/JS` · `Ray`· `Dask` · `Milvus` · `HuggingFace` · `Ollama (Mistral‑7B)` · `PHP` · `Postman` · `Java`· `VectorDB`· `C++`· `C`· `REACTjs`· `BoostrapCSS`· `JWT_authentication`
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 🤝 Connect
 
-* Email: **[your.email@example.com](mailto:your.email@example.com)**
+* Email: **[ek.verma2004@gmail.com]**
 * LinkedIn: **[https://www.linkedin.com/in/your‑handle](https://www.linkedin.com/in/your‑handle)**
 
 ---
