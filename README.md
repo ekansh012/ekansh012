@@ -11,8 +11,7 @@
 - 🛡️ I’m passionate about **Cybersecurity & Intelligence Research**  
 - 💻 Building projects in **AI, RAG, and Full-stack Development**  
 - 🤝 Open to **collaborating on Open Source & Research Projects**  
-- 📫 Reach me at: **ek.verma2004@gmail.com**  
-- ⚡ Fun fact: *I debug with `print()` and I’m proud of it 😄*  
+- 📫 Reach me at: **ek.verma2004@gmail.com**   
 
 ---
 
