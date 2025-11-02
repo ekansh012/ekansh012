@@ -15,7 +15,7 @@
 
 ## 🚀 About Me  
 
-- 🎓 I'm a **BCA Graduate (2025)**  
+- 🎓 I'm a **BCA Graduate (2025), currently pursuing MCA**  
 - 🛡️ I’m passionate about **Cybersecurity & Intelligence Research**  
 - 💻 Building projects in **AI, RAG, and Full-stack Development**  
 - 🤝 Open to **collaborating on Open Source & Research Projects**  
